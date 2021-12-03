@@ -1,0 +1,254 @@
+[?1h=
+                                                                                                         < M A T L A B (R) >
+                                                                                               Copyright 1984-2018 The MathWorks, Inc.
+                                                                                                R2018b (9.5.0.944444) 64-bit (glnxa64)
+                                                                                                           August 28, 2018
+
+ 
+For online documentation, see https://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+[H[J
+ ------------------------------------
+ ---  Start of PvKF Assimilation  ---
+ ------------------------------------
+reading concentration filenames ...
+reading varaince filenames ...
+reading met-data filename ...
+reading observation filenames ...
+succesfully read all inputs filenames
+GOSAT Unavailable
+
+obs_num =
+
+     0
+
+writing analysis ...
+cleaning memory ...
+GOSAT Unavailable
+
+obs_num =
+
+     0
+
+writing analysis ...
+cleaning memory ...
+GOSAT Unavailable
+
+obs_num =
+
+     0
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 03:00:00   02-Apr-2010 04:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+     2
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 04:00:00   02-Apr-2010 05:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    28
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 05:00:00   02-Apr-2010 06:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+     4
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 06:00:00   02-Apr-2010 07:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    65
+
+writing analysis ...
+cleaning memory ...
+GOSAT Unavailable
+
+obs_num =
+
+     0
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 08:00:00   02-Apr-2010 09:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    53
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 09:00:00   02-Apr-2010 10:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    86
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 10:00:00   02-Apr-2010 11:00:00
+
+GOSAT Unavailable
+
+obs_num =
+
+     0
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 11:00:00   02-Apr-2010 12:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    75
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 12:00:00   02-Apr-2010 13:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+     8
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 13:00:00   02-Apr-2010 14:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    51
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 14:00:00   02-Apr-2010 15:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+     2
+
+writing analysis ...
+cleaning memory ...
+GOSAT Unavailable
+
+obs_num =
+
+     0
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 16:00:00   02-Apr-2010 17:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+     1
+
+writing analysis ...
+cleaning memory ...
+
+GOSAT_TIME = 
+
+  1x2 datetime array
+
+   02-Apr-2010 17:00:00   02-Apr-2010 18:00:00
+
+QC GOSAT processing ...
+
+obs_num =
+
+    13
+
+writing analysis ...
+cleaning memory ...
