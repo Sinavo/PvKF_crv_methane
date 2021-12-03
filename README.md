@@ -5,7 +5,7 @@ December 1, 2021 <br />
 
 # info
 
-- Cross-validation is based on 3-fold approach. For GOSAT observations sample outputs of "train or active" and "test or passive" observations are generated. Users can also generate their own specific k-fold cross-validation train and test sets using the "cv_make_3fold.m" file. <br />
+- Cross-validation is based on 3-fold approach. For GOSAT observations sample outputs of "train or active" observations (cv_input_test1_all.mat) and "test or passive" observations (cv_input_test1_all.mat) are generated. Users can also generate their own specific k-fold cross-validation train and test sets using the "cv_make_3fold.m" file. <br />
 - In the train folder, you can run PvKF assimilation with the training set (2/3 of observation data as a default). The output (.mat) and concentrations/varainces netcdf files are then used to run the PvKF in the test folder. Runing PvKF assimilation in both train and test folder are the same as regular PvKF:https://github.com/Sinavo/PvKF_reg_methane.git.<br /> 
 - The assimilation can be run using the "driver_hemi.m" file in Matlab or using the "run_driver_hemi.sh" file in bash in both train and test folders.<br /> 
 The assimilation uses publicly available datasets and models, including <br />
