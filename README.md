@@ -1,4 +1,4 @@
-# PvKF assimilation (+Cross-validation)
+# PvKF assimilation (+Cross-Validation)
 Readme file for parametric variance Kalman filter (PvKF:https://github.com/Sinavo/PvKF_reg_methane.git) with cross-validation capability from Voshtani et al., (2021), Part I&II <br /> 
 PvKF is demostrated for GOSAT methane assimilation with hemispheric CMAQ model <br />
 December 1, 2021 <br />
