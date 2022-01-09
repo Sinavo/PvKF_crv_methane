@@ -16,7 +16,7 @@ GOSAT CH4 Proxy (https://catalogue.ceda.ac.uk/uuid/96d5b75ea29946c5aab8214ddbab2
 GOSAT CH4 Full Physics (https://catalogue.ceda.ac.uk/uuid/f9154243fd8744bdaf2a59c39033e659)<br />
 EDGAR CH4 (https://edgar.jrc.ec.europa.eu/index.php/dataset_ghg60)
 
-NOTE: GOSTA bias-corrected data against surface (NOAA) observations are generated as "gosat_cmaq_biascorrected_qc_on_latitude.mat". Bias correction is explained in Voshtani et al., (2021, Part I, Section 4.1 & 4.2). The code will still run without loading the bias-corrected (.mat) file, once it is commented. Input and modelling data can also be accessed by contacting Sina Voshtani (sinavoshtani@cmail.carleton.ca)
+NOTE: GOSTA bias-corrected data against surface (NOAA) observations are generated as "gosat_cmaq_biascorrected_qc_on_latitude.mat". Bias correction is explained in Voshtani et al., (2022, Part I, Section 4.1 & 4.2). The code will still run without loading the bias-corrected (.mat) file, once it is commented. Input and modelling data can also be accessed by contacting Sina Voshtani (sinavoshtani@cmail.carleton.ca)
 
 
 
